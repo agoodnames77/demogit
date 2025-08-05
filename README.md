@@ -1,11 +1,13 @@
 # demogit
 This is a demo.
 
-Upda
+Update
 
 
 
 Heheheha
+<<<<< main
 
 # well
+
 
