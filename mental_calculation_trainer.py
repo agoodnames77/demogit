@@ -1,3 +1,4 @@
+# Let's go
 import random,datetime
 def calculator():
     input('ready? ')
